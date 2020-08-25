@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="BMI"
+        android:icon="@drawable/ic_bmi"
+        android:id="@+id/BMI"/>
+    <item
+        android:id="@+id/FAT"
+        android:title="FAT"
+        android:icon="@drawable/ic_fat" />
+    <item
+        android:id="@+id/about"
+        android:title="About us"
+        android:icon="@drawable/ic_about" />
+</menu>
